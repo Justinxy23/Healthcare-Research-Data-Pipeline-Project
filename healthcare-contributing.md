@@ -357,22 +357,8 @@ def analyze_readmissions(
 
 - Check the documentation first
 - Search existing issues
-- Ask in GitHub Discussions
-- Join our Slack channel (if available)
+- Ask Me
+- Join our Slack channel (Whenever I create one)
 
-### Staying Updated
-
-- Watch the repository for updates
-- Subscribe to the mailing list
-- Follow our blog for announcements
-- Attend community meetings
-
-## Recognition
-
-Contributors will be recognized in the following ways:
-- Listed in CONTRIBUTORS.md
-- Mentioned in release notes
-- Given credit in documentation
-- Eligible for contributor badges
 
 Thank you for contributing to making healthcare data more accessible and secure! 🏥💻
