@@ -50,7 +50,7 @@ A secure, scalable research data engineering solution designed for healthcare an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/healthcare-research-data-pipeline.git
+git clone https://github.com/justinxy23/healthcare-research-data-pipeline.git
 cd healthcare-research-data-pipeline
 ```
 
