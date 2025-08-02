@@ -168,8 +168,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Justin Christopher Weaver**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- GitHub: [@Justinxy23](https://github.com/Justinxy23)
+- LinkedIn: [Justin-Weaver999](https://linkedin.com/in/justin-weaver999)
 
 ## 🙏 Acknowledgments
 
